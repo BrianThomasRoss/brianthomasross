@@ -1,5 +1,5 @@
 =============================
-Welcome, to my GitHub profile
+Welcome, to my GitHub Profile
 =============================
 
 I am an aspiring member of the data community, check out my repositories for
