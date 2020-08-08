@@ -1,10 +1,11 @@
-=============================
-Welcome, to my GitHub Profile
-=============================
+====================
+Welcome to my GitHub
+====================
 
-I am an aspiring member of the data community, check out my repositories for
-some examples of my work you can also connect with me on
+Check out my pinned repositories for some of my favorite work, or feel free to thumb through the whole catalog to see what I'm currently working on. I love all things related to data and I'm especially interested in the intersection of technology and civic applications.
 
-`LinkedIn <https://www.linkedin.com/in/brianthomasross>`_
+You can also connect with me on `LinkedIn <https://www.linkedin.com/in/brianthomasross>`_
 
-`Medium <https://www.medium.com/@brianthomasross>`_
+or check out some of my blog posts on `Medium <https://www.medium.com/@brianthomasross>`_
+
+If you're local to Detroit, be sure to check out the Code for Detroit brigade as well on `GitHub <https://www.github.com/Code-for-Detroit>`_ or join us on `MeetUp <https://www.meetup.com/Code-for-Detroit/>`_
