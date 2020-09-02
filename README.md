@@ -1,5 +1,4 @@
 
-====================
 Welcome to my GitHub
 ====================
 
@@ -13,3 +12,4 @@ For the security conscious `here is my PGP public key <https://gist.github.com/B
 
 If you're local to Detroit, be sure to check out the Code for Detroit brigade as well on `GitHub <https://www.github.com/Code-for-Detroit>`_ or join us on `MeetUp <https://www.meetup.com/Code-for-Detroit/>`_
 
+[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
