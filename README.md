@@ -18,7 +18,7 @@ I'm Brian, my specializations include data engineering, python development, and 
 
 [Twitter](https://www.twitter.com/brianthomasross)
 
-[My Website](https://www.brianthomasross.com)
+<!-- [My Website](https://www.brianthomasross.com) -->
 
 
 [![Brians's github stats](https://github-readme-stats.vercel.app/api?username=BrianThomasRoss)](https://github.com/anuraghazra/github-readme-stats)
